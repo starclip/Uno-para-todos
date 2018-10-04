@@ -1,0 +1,5 @@
+Orden Y Nombres
+
+Vista preliminar 1 : preparar partida.
+Vista preliminar 2 : Turno jugador.
+Vista preliminar 3 y 4 : secuencia de partida y jugador.
